@@ -79,22 +79,27 @@ We thank the authors for their open-sourced code and encourage users to cite the
 
 ## Citations
 
-[//]: # (If M3AE is useful for your research, please consider citing:)
+If the code is helpful for your research, please consider citing:
 
-[//]: # (```angular2)
+```angular2
+@article{zheng2026kg,
+  title={KG-CMI: Knowledge graph enhanced cross-Mamba interaction for medical visual question answering},
+  author={Zheng, Xianyao and Yu, Hong and Cui, Hui and Sun, Changming and Li, Xiangyu and Su, Ran and Wei, Leyi and Zhou, Jia and Wang, Junbo and Jin, Qiangguo},
+  journal={IEEE Transactions on Industrial Informatics},
+  year={2026},
+  publisher={IEEE}
+}
+```
 
-[//]: # (@inproceedings{chen2022m3ae,)
+## Social media
 
-[//]: # (  title={Multi-Modal Masked Autoencoders for Medical Vision-and-Language Pre-Training},)
+<p align="center"><img width="600" alt="image" src="https://github.com/BioMedIA-repo/.github/blob/052046a248d3831a599e11c85ff94cdd658c5abc/pic/wechat.png" height=""></p> 
+Welcome to follow our [Wechat official account: iBioMedInfo] and [Xiaohongshu official account: iBioMedInfo], we will share recent studies on biomedical image and bioinformation analysis there.
 
-[//]: # (  author={Chen, Zhihong and Du, Yuhao and Hu, Jinpeng and Liu, Yang and Li, Guanbin and Wan, Xiang and Chang, Tsung-Hui},)
+## Global Collaboration & Questions
 
-[//]: # (  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},)
+**Global Collaboration:** We're on a mission to biomedical research, aiming for artificial intelligence and its
+applications to biomedical image and bioinformation analysis, promoting the development of the medical community.
+Collaborate with us to increase competitiveness.
 
-[//]: # (  year={2022},)
-
-[//]: # (  organization={Springer})
-
-[//]: # (})
-
-[//]: # (```)
+**Questions:** General questions, please contact 'zhengxianyao@mail.nwpu.edu.cn'
